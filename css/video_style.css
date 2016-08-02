@@ -1,0 +1,19 @@
+.video_wrapper{
+    text-align:center;
+    padding:20px 0px;
+    margin:0px;
+    //margin-top:50px;
+    height:100%;
+    background-color: rgba(30,104,193,0.85);
+}
+#myCarousel{
+  text-align: center;
+  padding:0px;
+  margin:0px;
+}
+.main_video{
+  margin:30px 0px;
+}
+.video_lists{
+  margin:0px 100px;
+}
